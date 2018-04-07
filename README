@@ -1,0 +1,10 @@
+Webpage for project openSIEM www.opensiem.net
+
+1. Directory structure:
+deploy/		scripts for deploying webpages to web hosting (not public)
+src/site/	static web builds
+
+2.Toolchain for webpage
+favorite text editor
+mkdocs http://www.mkdocs.org/
+git
