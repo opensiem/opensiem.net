@@ -1,1 +1,17 @@
-site_name: My Docs
+theme: readthedocs
+site_name: openSIEM.net
+
+pages:
+- Home: 'index.md'
+- Documentation:
+    - 'Installation guide': 'guide/installation-guide.md'
+    - 'Administrator Guide': 'guide/administrator-guide.md'
+    - 'User Guide': 'guide/user-guide.md'
+    - 'Developer Guide': 'guide/developer-guide.md'
+    - 'Background': 'guide/background.md'
+- About:
+    - 'Screenshots': 'about/screenshots.md'
+    - 'Release Notes': 'about/release-notes.md'
+    - 'License': 'about/license.md'
+    - 'Pricing': 'about/pricing.md'
+- Bounty: 'bounty/log-bounty-program.md'
